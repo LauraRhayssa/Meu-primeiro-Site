@@ -1,0 +1,53 @@
+header{
+    color: rgb(245, 192, 48);
+    width: 100%;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color: peru;
+    padding: 5px;
+    text-align: center;
+}
+section{
+    margin: 0%;
+}
+nav{    
+    
+    width: 100%;
+    height: auto;
+    background-color: orange;
+    padding  : 10px;
+    text-align: center;
+}
+nav a{
+    padding: 2%;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(180, 58, 14);
+}
+body{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+}
+footer{
+
+    background-color: rgb(221, 145, 90);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif; ;
+}
+.coluna{
+    height: 200px;
+    background-color: antiquewhite;
+    margin: 2%;
+}
+.titulo-secao{
+    width: auto;
+    text-align: center;
+    color: rgb(71, 49, 20);
+    padding: 1px;
+    background-color: rgb(231, 145, 33);
+}
+.h3text{
+    background-color: rgb(241, 191, 124);
+}
